@@ -1,3 +1,5 @@
+Getting Started
+
 1. Change path to firebase inside file "author.js" Where your   rootref = new Firebase("<Your Path>");
 2. "npm install nodemon --save"
 3. "nodemon server.js"
